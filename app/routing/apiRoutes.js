@@ -4,7 +4,7 @@
 // These data sources hold arrays of information for the survey questions.
 // ===============================================================================
 
-var surveyData = require("../app/data/friends.js");
+var surveyData = require("../data/friend.js");
 
 // ===============================================================================
 // ROUTING
