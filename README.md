@@ -28,3 +28,4 @@ ______________________
 - Create a set of routes for getting and posting table data
 - Create a set of routes for displaying the HTML pages
 - Use jQuery to run AJAX calls to GET and POST data from users to the Express server
+- Link repository of working app to Heraku for web deployment
